@@ -1,0 +1,17 @@
+==========================================
+               BCA TRANSFERS             
+==========================================
+Status          : Transfer Berhasil
+Waktu           : 28 Agu 2026 18:12:35
+Amount          : IDR 25.000,00
+------------------------------------------
+Nama Penerima   : HENDI
+Rekening Tujuan : 076 - 030 - 5413
+Jenis Transaksi : Transfer ke Rekening BCA
+Mata Uang Tujuan: IDR - Indonesian Rupiah
+Dari Rekening   : 483 - 0** - **51
+Mata Uang Asal  : IDR - Indonesian Rupiah
+Nominal Tujuan  : IDR 25.000,00
+Berita          : -
+No. Referensi   : BAEEAA78-84D0-4E3A-86BA-9CBCF48BE685
+==========================================
